@@ -1,6 +1,28 @@
- public class HelloWorld{
-    public static void main(String[]args){
-        
-        System.out.println("HelloWorld");
+public class StringExample.java{
+    public static void main (string[]args){
+        String name="bhanu"
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+        System.out.println ("my name is"+name)
+    
     }
- }
+}
+}
