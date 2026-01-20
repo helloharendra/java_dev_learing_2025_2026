@@ -1,15 +1,15 @@
-public class SumOfNumbers{
-    public static void main(String[]args){
+ public class SumOfNumbers{
+    public static void main (String[]args){
+// this program represent sum of two numbers usingle line comment
+/* my name is Ayush
+vill katohi
+post madiyapar
+example of multiple line comment
+*/
 
-     float a=5f;
-     float b=10f;
-     float c=(a/b);
-     
-     System.out.println ("Divide Of a/b:"+c);
-
-
-
-
-
+int a=5;
+int b=10;
+int c=a+b;
+System.out.println("SumOFNumbers:" +c);
     }
-}
+ }
