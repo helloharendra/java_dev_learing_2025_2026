@@ -10,7 +10,7 @@ import java.util.Scanner;
         }else if  (mark >= 80){ 
          System.out.println("Grade = B");
          } else if  (mark >= 70){ 
-         System.out.println("Grade = C");
+         System.out.println("Grade = C"); 
            } else if (mark >= 60){ 
          System.out.println("Grade = d");
          } else{
