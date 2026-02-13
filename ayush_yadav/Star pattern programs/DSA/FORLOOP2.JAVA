@@ -1,8 +1,8 @@
-public class FORLOOP2{
+public class FORLOOP1{
     public static void main (String[]args){
     System.out.println("in FOR LOOP. ");
-     int []arr ={10, 20, 30, 40};
-     for(int num : arr)
-        System.out.println(num+ "");
+    for (int i = 1; i<=5; i++){
+        System.out.println(i+ "");
     }
     }
+}
