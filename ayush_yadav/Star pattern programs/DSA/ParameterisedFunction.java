@@ -1,22 +1,19 @@
-public class ParameterisedFunction {
-
+public class ParametrisedFunction{
     void sum () {
-     int a = 10;
-     int b = 20;
-     int c = a+b;
-     System.out.println("Sum is " + c);
+        int a = 10;
+        int b = 20;
+        int c = a+b;
+        System.out.println("sum is " + c );
     }
-    void minus () {
-     int a = 10;
-     int b = 20;
-     int c = a-b;
-      System.out.println("Minus is " + c);
-    }   
-    public static void main (String[]args){
-        ParameterisedFunction ayush = new ParameterisedFunction ();
-        ayush.minus();
-        ayush.sum();
-    }
+  void minus () {
+        int a = 10;
+        int b = 20;
+        int c = a-b;
+        System.out.println("minus is " - c );
     }
 
 
+
+
+
+}
