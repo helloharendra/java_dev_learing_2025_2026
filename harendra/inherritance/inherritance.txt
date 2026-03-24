@@ -1,0 +1,11 @@
+Type of inherritance in java
+
+1. Single Inheritance: Dog class inherits from Animal class
+2. Hierarchical Inheritance: Both Dog and Cat inherit from Animal
+3. Multilevel Inheritance: Puppy inherits from Dog which inherits from Animal
+4.Multiple Inheritance: example in secode code
+5:Hybrid Inheritance:example in secode code
+4. Method Overriding: Child classes override parent methods
+5. super keyword: Used to call parent class constructor and methods
+6. Polymorphism: Parent class reference pointing to child objects
+7. instanceof operator: Checking object types at runtime
