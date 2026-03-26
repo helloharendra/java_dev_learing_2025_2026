@@ -19,4 +19,7 @@
         d.bark ();
     }
   }  
+   class Animal {
+    
+   } 
 ;
